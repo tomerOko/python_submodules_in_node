@@ -1,0 +1,1 @@
+print('some message of seccessful index building')
